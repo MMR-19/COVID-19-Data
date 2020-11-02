@@ -1,6 +1,5 @@
 # COVID-19 Data
-On this repository you can find the data presented on my website with charts [rebocho.pt](http:/rebocho.pt). 
-You can always access (and download) the live data from the website. I'll try to keep the repository updated daily.
+On this repository you can find the data presented on my website with charts [rebocho.pt](http:/rebocho.pt).
 
 * Global - country level
 * Portugal - regional level (Regional Health Administration)
@@ -8,7 +7,7 @@ You can always access (and download) the live data from the website. I'll try to
 
 ## Data Sources
 ### Global
-C# web scraping: [worldometers](https://www.worldometers.info/coronavirus/) and [wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)<br>
+C# web scraping: [Worldometers](https://www.worldometers.info/coronavirus/) and [Wikipedia](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)<br>
 **Countries**: Austria, Belgium, Brazil, Canada, France, Germany, India, Iran, Italy, Japan, Netherlands, Portugal, Russia, S. Korea,  Spain, Switzerland, United Kingdom, USA
 ### Portugal
 Github repository: [Data Science for Social Good Portugal](https://github.com/dssg-pt/covid19pt-data)<br>
