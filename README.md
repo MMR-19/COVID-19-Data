@@ -1,5 +1,5 @@
 # COVID-19 Data
-On this repository you can find the data presented on my website with charts [rebocho.pt](http:/rebocho.pt).
+On this repository you can find the data presented on my website with charts [demo.rebox-studios.com](https:/demo.rebox-studios.com/covid).
 
 * Global - country level
 * Portugal - regional level (Regional Health Administration)
